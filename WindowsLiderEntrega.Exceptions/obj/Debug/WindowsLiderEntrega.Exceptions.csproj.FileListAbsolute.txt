@@ -1,0 +1,11 @@
+D:\Olimpia\WindowsLiderEntrega.Exceptions\bin\Debug\WindowsLiderEntrega.Exceptions.dll
+D:\Olimpia\WindowsLiderEntrega.Exceptions\bin\Debug\WindowsLiderEntrega.Exceptions.pdb
+D:\Olimpia\WindowsLiderEntrega.Exceptions\obj\Debug\WindowsLiderEntrega.Exceptions.csprojAssemblyReference.cache
+D:\Olimpia\WindowsLiderEntrega.Exceptions\obj\Debug\WindowsLiderEntrega.Exceptions.csproj.CoreCompileInputs.cache
+D:\Olimpia\WindowsLiderEntrega.Exceptions\obj\Debug\WindowsLiderEntrega.Exceptions.dll
+D:\Olimpia\WindowsLiderEntrega.Exceptions\obj\Debug\WindowsLiderEntrega.Exceptions.pdb
+D:\OlimpiaIT\WindowsLiderEntrega\WindowsLiderEntrega\WindowsLiderEntrega.Exceptions\bin\Debug\WindowsLiderEntrega.Exceptions.dll
+D:\OlimpiaIT\WindowsLiderEntrega\WindowsLiderEntrega\WindowsLiderEntrega.Exceptions\bin\Debug\WindowsLiderEntrega.Exceptions.pdb
+D:\OlimpiaIT\WindowsLiderEntrega\WindowsLiderEntrega\WindowsLiderEntrega.Exceptions\obj\Debug\WindowsLiderEntrega.Exceptions.csproj.CoreCompileInputs.cache
+D:\OlimpiaIT\WindowsLiderEntrega\WindowsLiderEntrega\WindowsLiderEntrega.Exceptions\obj\Debug\WindowsLiderEntrega.Exceptions.dll
+D:\OlimpiaIT\WindowsLiderEntrega\WindowsLiderEntrega\WindowsLiderEntrega.Exceptions\obj\Debug\WindowsLiderEntrega.Exceptions.pdb
